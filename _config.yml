@@ -32,6 +32,10 @@ youtube:
   height: 315
   width: 560
 
+
+collections:
+  sesssions:
+    output: true
 conference:
   draft: True # set to True if the programme is draft only.
   hide_tentative: False
