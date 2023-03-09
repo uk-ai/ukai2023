@@ -33,12 +33,9 @@ youtube:
   width: 560
 
 conference:
-  draft: true # set to True if the programme is draft only.
-  hide_tentative: true
-  hosts:
-  
-  room: Room
-  venue: Natural History Mueseum
+  draft: True # set to True if the programme is draft only.
+  hide_tentative: False
+  venue: Natural History Museum
   location: London, UK
   name: UK AI Fellows Conference
   year: 2023
