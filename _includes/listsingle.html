@@ -1,6 +1,6 @@
-<li ><a class="post-link"  href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} {{ post.date | date: "%A, %B %-d" }}</a>  <i class="post-link" >{{ post.tagline }}</i> 
+<li ><a class="session-link"  href="{{ session.url | prepend: site.baseurl }}">{{ session.title }} {{ session.date | date: "%A, %B %-d" }}</a>  <i class="session-link" >{{ session.tagline }}</i> 
 
-{% for talk in post.talks %}
+{% for talk in session.talks %}
 {% include listtalk.html %}
 {% endfor %}
 </li>
