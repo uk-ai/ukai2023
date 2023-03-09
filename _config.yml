@@ -41,6 +41,8 @@ conference:
   full_name: UK AI Fellows 
   short_name: UKAI
   name: UK AI Fellows Conference
+  instance: First
+  styling: Conference for
   # set to True if the programme is draft only.
   draft: True # set tbo True if the programme is draft only.
   hide_tentative: False

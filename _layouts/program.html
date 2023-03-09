@@ -13,15 +13,15 @@ title: Program
   {{ content }}
   
   <ul>
-    {% for post in site.posts reversed %}
-    {% if post.layout == "multitrack"%}
+    {% for session in site.sessions reversed %}
+    {% if session.layout == "multitrack"%}
     {% include listmulti.html %}
     {% endif %}
     {% endfor %}
 
     
-    {% for post in site.posts reversed %}
-    {% if post.layout == "singletrack" %}
+    {% for session in site.sessions reversed %}
+    {% if session.layout == "singletrack" %}
     {% include listsingle.html %}
     {% endif %}
     {% endfor %}
