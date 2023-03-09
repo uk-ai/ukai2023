@@ -1,5 +1,5 @@
 ---
-title:  Interesting Workshop
+title:  Break Out Track 2
 layout: multitrack
 organizer_url: 
 tagline: Tagline
@@ -7,18 +7,13 @@ show_abstracts: true
 room: Room Number
 show_abstracts: false
 talks:
-- title: "What I learnt from Uncle Bilbo"
-  author:
-  - family: Baggins
-    given: Frodo
-    url: "http://frodobaggins.com"
-    institute: "University of Middle Earth"
+- title: "Session 1"
   abstract: 
-  start: "9:00"
-  end: "10:30"
+  start: "9:45"
+  end: "11:10"
 - title: "Coffee Break"
-  start: "10:30"
-  end: "11:00"
+  start: "11:15"
+  end: "11:45"
 - title: TBA
   start: "11:00"
   end: "12:30"
