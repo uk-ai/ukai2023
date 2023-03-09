@@ -1,23 +1,20 @@
 # Site settings
-title: Conference Name, Year
-email: your-email@domain.com
+title: UK AI Fellows Conference, 2023
+email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Write a description for your conference or meeting here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/_confweb" # the subpath of your site, e.g. /blog/
-url: "http://opendsi.cc" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  sods
+  This is the web page of the UK AI Fellows conference in 2023.
+baseurl: "/ukai2023" # the subpath of your site, e.g. /blog/
+url: "http://uk-ai.org" # the base hostname & protocol for your site
+github_username:  uk-ai
 
 
 youtube:
   height: 315
   width: 560
 
-github:
+ghub:
   edit: true
-  repository: _confweb
+  repository: ukai2023
   
 markdown: kramdown
 
@@ -41,15 +38,14 @@ conference:
   hosts:
   
   room: Room
-  venue: Convention Centre
-  location: City, Country
-  name: Conference Name
-  year: 2017
-  month: September
+  venue: Natural History Mueseum
+  location: London, UK
+  name: UK AI Fellows Conference
+  year: 2023
+  month: May
   dates:
-  - 2017-09-12
-  - 2017-09-13
-  hosts:
+  - 2023-05-24
+  - 2023-09-25
   general:
   - family: Jones
     given: Jack
