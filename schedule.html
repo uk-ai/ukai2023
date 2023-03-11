@@ -14,13 +14,16 @@ layout: default
   {% endif %}
 {% endfor %}
 
+{% assign row = 0 %}
+
+
 <div class="schedule">
   {% for session in sessions %}
     {% capture start_time %}{{ session.start_time | date: "%H:%M" }}{% endcapture %}
     {% capture end_time %}{{ session.end_time | date: "%H:%M" }}{% endcapture %}
 
     {% if session.type == "plenary" %}
-      <div class="plenary-session" style="grid-column: span {{max_track_number}};grid-row: {{ forloop.index }}">
+      <div class="plenary-session" style="grid-column: span {{max_track_number}};grid-row: {{ forloop.index }};">
         <div class="session-info">
           <h3>{{ session.title }}</h3>
           <p>{{ session.speaker }}</p>
