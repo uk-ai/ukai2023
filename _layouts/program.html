@@ -12,20 +12,18 @@ title: Program
  
   {{ content }}
   
-  <ul>
-    {% for session in site.sessions reversed %}
-    {% if session.layout == "multitrack"%}
-    {% include listmulti.html %}
-    {% endif %}
-    {% endfor %}
-
-    
-    {% for session in site.sessions reversed %}
+  <ul>    
+    {% for session in site.sessions  %}
     {% if session.layout == "singletrack" %}
     {% include listsingle.html %}
     {% endif %}
     {% endfor %}
 
+    {% for session in site.sessions  %}
+    {% if session.layout == "multitrack"%}
+    {% include listmulti.html %}
+    {% endif %}
+    {% endfor %}
   </ul>
 
   

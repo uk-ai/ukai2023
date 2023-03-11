@@ -23,11 +23,11 @@ plugins:
 - jekyll-seo-tag
 - jekyll-remote-theme
 
+remote_theme: uk-ai/jekyll-theme
+
 # Build settings
 future: true
 
-permalink: "/:categories/:title.html"
-banner: nice_conference_banner.jpeg
 
 analytics:
  google:
@@ -41,18 +41,5 @@ youtube:
 collections:
   sessions:
     output: true
+    permalink: "/:categories/:title.html"
 
-previous_meeting:
-  name:
-  url:
-
-map:
-  show: False
-  mapbox:
-    latitude: # latitude of map center
-    longitude: # longitude of map center
-    map_id: # mapbox id
-    access_token: # mapbox access token
-    zoom_level: 17
-    width: 100%
-    height: 500px

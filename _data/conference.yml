@@ -67,3 +67,19 @@ chairs:
       given: Cinzia
       url: 
       institute: EPSRC/UKRI
+
+previous_meeting:
+  name:
+  url:
+
+map:
+  show: False
+  mapbox:
+    latitude: # latitude of map center
+    longitude: # longitude of map center
+    map_id: # mapbox id
+    access_token: # mapbox access token
+    zoom_level: 17
+    width: 100%
+    height: 500px
+      
