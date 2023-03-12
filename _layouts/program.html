@@ -1,34 +1,31 @@
 ---
 layout: page
-title: Program
+title: Programme
 ---
 
 
-<article>
-
-  {% if site.data.conference.draft %}
-  <h2>Draft Version</h2>
-  {% endif %}
- 
-  {{ content }}
-  
-  <ul>    
-    {% for session in site.sessions  %}
-    {% if session.layout == "singletrack" %}
-    {% include listsingle.html %}
-    {% endif %}
-    {% endfor %}
-
-    {% for session in site.sessions  %}
-    {% if session.layout == "multitrack"%}
-    {% include listmulti.html %}
-    {% endif %}
-    {% endfor %}
-  </ul>
-
-  
-</article>
+{% assign schedule_pages = site.pages | where: 'layout', 'schedule' | sort: 'start_time' %}
 
 
-	
-	
+{% if site.data.conference.draft %}
+<h2>Draft Version</h2>
+{% endif %}
+
+<div class="project-list">
+  {% for tile in schedule_pages %}
+  <div class="card project-card">
+    <a href="{{ tile.url | relative_url }}">
+      {% if tile.image %}
+      <div class="project-image">
+      <img src="{{ tile.image }}" alt="{{ tile.title }}">
+      </div>
+      {% endif %}
+    <div class="project-info">
+      <h3>{{ tile.title }}</h3>
+      <p>{{ tile.start_time | date: "%b %-d, %Y"}}</p>
+      <p>{{ tile.description }}</p>
+    </div>
+    </a>    
+  </div>
+  {% endfor %}
+</div>
