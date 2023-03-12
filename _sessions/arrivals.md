@@ -1,8 +1,8 @@
 ---
 title: "Arrivals"
 layout: break
-start_time: 2023-05-24 10:00
-end_time: 2023-05-24 10:30
+start_time: 2023-05-24 9:30
+end_time: 2023-05-24 10:00
 ---
 
 
