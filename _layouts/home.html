@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 <h1>The {{ site.data.conference.instance }} {{ site.data.conference.styling }} <br> {{site.data.conference.full_name }}</h1>
@@ -16,6 +16,5 @@ layout: default
 {%if site.data.conference.image %}<center><img src="{{ site.baseurl }}/assets/images/{{ site.data.conference.image }}" alt="Conference image" width="60%"></center>{% endif %}
 
 {% include conference_description.html %}
-
 
 {{ content }}
