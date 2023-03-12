@@ -23,27 +23,6 @@ deadlines:
     type: decision
 # List program chairs here.      
 chairs:
-- type: Chairs
-  people:
-  - family: Lawrence
-    given: Neil D.
-    # Give their personal web page.  
-    url: https://inverseprobability.com
-    institute: University of Cambridge
-  - family: Lehre
-    given: Per Kristian
-    institute: University of Birmingham
-    url: https://www.cs.bham.ac.uk/~lehrepk/
-  - family: Liakata
-    given: Maria
-    # Give their personal web page.  
-    url: http://eecs.qmul.ac.uk/people/profiles/liakatamaria.html
-    institute: QMUL
-  - family: Scaife
-    given: Anna
-    # Give their personal web page.  
-    url: https://research.manchester.ac.uk/en/persons/anna.scaife
-    institute: Queen Mary University of London
 - type: Program Committee
   people:
   - family: Cabrera
@@ -67,6 +46,27 @@ chairs:
       given: Cinzia
       url: 
       institute: EPSRC/UKRI
+- type: Chairs
+  people:
+  - family: Lawrence
+    given: Neil D.
+    # Give their personal web page.  
+    url: https://inverseprobability.com
+    institute: University of Cambridge
+  - family: Lehre
+    given: Per Kristian
+    institute: University of Birmingham
+    url: https://www.cs.bham.ac.uk/~lehrepk/
+  - family: Liakata
+    given: Maria
+    # Give their personal web page.  
+    url: http://eecs.qmul.ac.uk/people/profiles/liakatamaria.html
+    institute: QMUL
+  - family: Scaife
+    given: Anna
+    # Give their personal web page.  
+    url: https://research.manchester.ac.uk/en/persons/anna.scaife
+    institute: Queen Mary University of London
 
 previous_meeting:
   name:
