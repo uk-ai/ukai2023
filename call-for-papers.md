@@ -18,8 +18,8 @@ Submissions should be in the form of an extended abstract of up to 500 words.
 
 Important Dates:
 
-Abstract submission deadline: 20th April 2023 (Anywhere on Earth)
-Abstract decision notifications: Friday, April 28, 2023
-Conference dates: May 24-25, 2023
+- Abstract submission deadline: 20th April 2023 (Anywhere on Earth)
+- Abstract decision notifications: Friday, April 28, 2023
+- Conference dates: May 24-25, 2023
 
 We look forward to receiving your submissions and to a productive conference for the UK AI community.
