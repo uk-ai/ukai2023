@@ -10,9 +10,10 @@ We welcome abstracts from UK AI Fellows and their research groups on all aspects
 - Digital twins
 - Explainable AI
 - Trustworthy  AI
-- AI for science
-- AI for healthcare
-- AI systems
+- AI for Science
+- AI for Healthcare
+- AI for Nature
+- AI Systems
 
 Submissions should be in the form of an extended abstract of up to 500 words. 
 
