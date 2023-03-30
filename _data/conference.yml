@@ -21,6 +21,14 @@ deadlines:
   - name: Abstract decision notifications
     date: 28th April 2023
     type: decision
+# Give the submission site details here.
+submission:
+  # Whether to show the submission site.
+  show: true
+  # The URL of the submission site.
+  url: https://docs.google.com/forms/d/1vkZrPgxyKRgftoOqyrDvLe7mfG1uqq1RHaU9TCSUN1I
+  # The name of the submission site (e.g. Microsoft CMT Website)
+  name: Google Form
 # List program chairs here.      
 chairs:
 - type: Program Committee
