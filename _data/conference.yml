@@ -33,15 +33,30 @@ submission:
 chairs:
 - type: Program Committee
   people:
+  - family: Benford
+    given: Alistair
+    # Give their personal web page.  
+    url: https://www.alistairbenford.com/
+    institute: University of Birmingham
   - family: Cabrera
     given: Christian
     # Give their personal web page.  
     url: https://mlatcl.github.io/people/christian-cabrera.html
     institute: University of Cambridge
+  - family: Hevia Fajardo
+    given: Mario
+    # Give their personal web page.  
+    url: https://research.birmingham.ac.uk/en/persons/mario-hevia-fajardo
+    institute: University of Birmingham 
   - family: Scott
     given: Ben
     url: https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/ben-scott.html
     institute: Natural History Museum
+  - family: Slijepcevic
+    given: Inigo Val
+    # Give their personal web page.  
+    url: https://inigoval.github.io/
+    institute: University of Manchester
 - type: Alan Turing Institute
   people: 
     - family: Cordier
