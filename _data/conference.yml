@@ -31,7 +31,6 @@ submission:
   name: Google Form
 # List program chairs here.      
 chairs:
-https://lcipolina.github.io/
 - type: Program Committee
   people:
   - family: Benford
