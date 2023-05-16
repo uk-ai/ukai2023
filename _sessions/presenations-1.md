@@ -5,11 +5,6 @@ track: 1
 start_time: 2023-05-24 14:30
 end_time: 2023-05-24 16:30
 ---
-
-<head>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-  <script src="js/functions.js"></script>
-</head>
 <body onload="load_file('schedule/presentations_1.csv', 'presentations')">
   <p>
     This is the schedule for the presentations of session 1:
