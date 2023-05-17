@@ -5,7 +5,7 @@ start_time: 2023-05-24 10:45
 end_time: 2023-05-24 11:45
 ---
 
-| Board      | Poster                                                                                                                       | Author             |                    
+| Board      | Poster                                                                                                                       | Author             |
 |   :----:   |   :----:                                                                                                                     |   :----:           |
 | 1	         | Disentangling the Link Between Image Statistics and Human Perception	                                                        | Alexander Hepburn  | 
 | 1	         | Quantifying the benefits of hierarchical reinforcement learning: a lower bound on sample efficiency	                        | Arnaud Robert      | 
