@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: presentations
 title: "Presentations"
 track: 1
 start_time: 2023-05-24 14:30
