@@ -1,6 +1,6 @@
 ---
-layout: workshop
 title: "Presentations"
+layout: presentation
 track: 1
 start_time: 2023-05-24 14:30
 end_time: 2023-05-24 16:30
@@ -8,7 +8,7 @@ end_time: 2023-05-24 16:30
 
 | Start      | End        | Talk                                                                                                   | Speaker                |
 |   :----:   |   :----:   |   :----:                                                                                               |   :----:               |
-| 14:30      |	14:45     |	Machine Learning & Computer Vision for Automatic Label Extraction from Pinned Specimens                | Arianna Salili-James   |
+| 14:30      | 14:45      |	Machine Learning & Computer Vision for Automatic Label Extraction from Pinned Specimens                | Arianna Salili-James   |
 | 14:45	     | 15:00	    | Provably Correct Physics-Informed Neural Networks                                                      | Francisco Girbal Eiras |
 | 15:00	     | 15:10	    | Building Multi-purpose Models for the Next Generation of Radio Astronomy with Self-supervised Learning | Inigo Val Slijepcevic  |
 | 15:10	     | 15:20	    | Certifying Ensembles: A General Certification Theory with S-Lipschitzness                              | Aleksandar Petrov      |
