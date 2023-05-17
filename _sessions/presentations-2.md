@@ -1,5 +1,5 @@
 ---
-layout: workshop
+layout: presentation
 title: "Presentations"
 track: 1
 start_time: 2023-05-25 11:35
@@ -7,7 +7,7 @@ end_time: 2023-05-25 13:05
 ---
 
 | Start      | End        | Talk                                                                                                   | Speaker                       |
-|   :----:   |   :----:   |   :----:                                                                                               |   :----:               |
+|   :----:   |   :----:   |   :----:                                                                                               |   :----:                      |
 | 11:35	     | 11:50	    | Bargaining games, stochastic games and multi-agent RL - A golden braid                                 | Lucia Cipolina-Kun            |  
 | 11:50	     | 12:05	    | Creation and evaluation of timelines for longitudinal user posts	                                     | Anthony Hills                 | 
 | 12:05	     | 12:15	    | Artificial Intelligence and Mechanism Design for Routing of Connected and Autonomous Vehicles	         | Behrad Koohy                  |   
