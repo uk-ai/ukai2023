@@ -1,5 +1,5 @@
 ---
-layout: presentation
+layout: page
 title: "Presentations"
 track: 1
 start_time: 2023-05-25 14:50
@@ -7,6 +7,7 @@ end_time: 2023-05-25 16:50
 ---
 
 | Start      | End        | Talk                                                                                                   | Speaker                       |
+|   :----:   |   :----:   |   :----:                                                                                               |   :----:               |
 | 14:50	     | 15:05	    | Reducing Labelling Costs by Learning Semantic Class Targets	                                           | Micah Bowles                  | 
 | 15:05	     | 15:20	    | AI in Digital Morphology	                                                                             | Oliver Hon-Chung Kippax-Chui  | 
 | 15:20	     | 15:30	    | A Digital Language Coherence Marker for Monitoring Dementia	                                           | Dimitris Gkoumas              | 
