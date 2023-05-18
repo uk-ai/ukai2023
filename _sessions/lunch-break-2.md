@@ -1,9 +1,13 @@
 ---
 layout: break
-title: Lunch and Poster Session
+title: Lunch and Posters Session 4
 start_time: 2023-05-25 13:10
 end_time: 2023-05-25 14:10
 ---
+
+Location: Flett Theatre Foyer - Natural History Museum
+Start time: 2023-05-25 13:10
+End time: 2023-05-25 14:10
 
 | Board     | Poster                                                                                                                                                                       | Author                 |
 |   :----:  |   :----:                                                                                                                                                                     |   :----:               |
@@ -20,3 +24,5 @@ end_time: 2023-05-25 14:10
 | 6         | Novelty Detection using Hybrid Autoencoder-Level Set Method                                                                                                                  | Shuo Liu               |
 | 6         | Assisting Human Detection of Audio Deepfakes                                                                                                                                 | Thomas Cutts           |
 | 7         | Document-Level Multi-Event Extraction with Event Proxy Nodes and Hausdorff Distance Minimization                                                                             | Xinyu Wang             |
+
+Posters format: Up to A1 (59cm * 84cm), with portrait orientation.

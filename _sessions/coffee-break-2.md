@@ -1,9 +1,13 @@
 ---
 layout: break
-title: "Coffee Break and Poster Session"
+title: "Coffee Break and Posters Session 3"
 start_time: 2023-05-25 10:45
 end_time: 2023-05-25 11:30
 ---
+
+Location: Flett Theatre Foyer - Natural History Museum
+Start time: 2023-05-25 10:45
+End time: 2023-05-25 11:30
 
 | Board     | Poster                                                                                                            | Author                        |
 |   :----:  |   :----:                                                                                                          |   :----:                      |
@@ -20,3 +24,5 @@ end_time: 2023-05-25 11:30
 | 6         | Deep Predictive Coding with Bi-directional Propagation for Classification and Reconstruction                      | Senhui Qiu                    |
 | 6         | Multimodal Multimorbidity Variational Autoencoder: A Deep Generative Model for Multimorbidity Analysis            | Woojung Kim                   |
 | 7         | Event Temporal Relation Extraction with Bayesian Translational Model                                              | Xingwei Tan                   |
+
+Posters format: Up to A1 (59cm * 84cm), with portrait orientation.

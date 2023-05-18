@@ -1,22 +1,29 @@
 ---
 layout: break
-title: "Coffee Break and Poster Session"
+title: "Coffee Break and Posters Session 1"
 start_time: 2023-05-24 10:45
 end_time: 2023-05-24 11:45
 ---
 
+Location: Flett Theatre Foyer - Natural History Museum
+Start time: 2023-05-24 10:45
+End time: 2023-05-24 11:45
+
 | Board     | Poster                                                                                                                        | Author             |
 |   :----:  |   :----:                                                                                                                      |   :----:           |
 | 1         | Disentangling the Link Between Image Statistics and Human Perception                                                          | Alexander Hepburn  | 
-| 1         | Quantifying the benefits of hierarchical reinforcement learning: a lower bound on sample efficiency                           | Arnaud Robert      | 
-| 2         | Identification	 explanation and clinical evaluation of hospital patient subtypes                                           | Enrico Werner      | 
+| 1         | Quantifying the Benefits of Hierarchical Reinforcement Learning: A Lower Bound on Sample Efficiency                           | Arnaud Robert      | 
+| 2         | Identification Explanation and Clinical Evaluation of Hospital Patient Subtypes                                               | Enrico Werner      | 
 | 2         | Multimodal Augmentations from Song Metadata for Music Information Retrieval                                                   | Federico Rossetto  | 
-| 3         | Exploiting epistemic uncertainty at inference time for early-exit power saving                                                | Jack Dymond        | 
-| 3         | Solving large-scale MEG/EEG source localisation and functional connectivity problems simultaneously using state-space models  | Jose Sanchez       | 
+| 3         | Exploiting Epistemic Uncertainty at Inference Time for Early-exit Power Saving                                                | Jack Dymond        | 
+| 3         | Solving Large-scale MEG/EEG Source Localisation and Functional Connectivity Problems Simultaneously Using State-space Models  | Jose Sanchez       | 
 | 4         | Reducing Hallucinations in Generative Language Models via Uncertainty Estimation                                              | Lorenz Kuhn        | 
-| 4         | Empirical evaluation of medical AI explanations in the hospital using behavioural response and eye-tracking metrics           | Myura Nagendran    | 
-| 5         | ProteinNPT: multi-objective protein design with non-parametric transformers                                                   | Ruben Weitzman     | 
+| 4         | Empirical Evaluation of Medical AI Explanations in the Hospital Using Behavioural Response and Eye-tracking Metrics           | Myura Nagendran    | 
+| 5         | ProteinNPT: Multi-objective Protein Design With Non-parametric Transformers                                                   | Ruben Weitzman     | 
 | 5         | CONE: Unsupervised Contrastive Opinion Extraction                                                                             | Runcong Zhao       | 
 | 6         | Continual Learning with Spiking Neural Networks                                                                               | Vahid Saranirad    | 
 | 6         | Computational Responsibility for Trustworthy Citizen-Centric AI                                                               | Vahid Yazdanpanah  | 
 | 7         | An Event-Centric Dialogue System for Second Language Learners                                                                 | Xingwei Tan        | 
+
+
+Posters format: Up to A1 (59cm * 84cm), with portrait orientation.
