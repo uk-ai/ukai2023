@@ -6,11 +6,11 @@ start_time: 2023-05-25 11:35
 end_time: 2023-05-25 13:05
 ---
 
-**Location**: Flett Theatre - Natural History Museum
+**Location**: Flett Theatre - Natural History Museum - London, UK.
 
-**Start time**: 2023-05-25 11:35
+**Start time**: 2023-05-25 11:35.
 
-**Finish time**: 2023-05-25 13:05
+**Finish time**: 2023-05-25 13:05.
 
 | Start     | End      | Talk                                                                                           | Speaker                       |
 |   :----:  |   :----: |   :----:                                                                                       |   :----:                      |

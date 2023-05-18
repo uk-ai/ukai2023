@@ -5,11 +5,11 @@ start_time: 2023-05-24 13:25
 end_time: 2023-05-24 14:25
 ---
 
-**Location**: Flett Theatre Foyer - Natural History Museum
+**Location**: Flett Theatre Foyer - Natural History Museum - London, UK.
 
-**Start time**: 2023-05-24 13:25
+**Start time**: 2023-05-24 13:25.
 
-**Finish time**: 2023-05-24 14:25
+**Finish time**: 2023-05-24 14:25.
 
 **Posters format**: Up to A1 (59cm * 84cm), with portrait orientation.
 
