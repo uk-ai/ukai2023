@@ -6,6 +6,12 @@ start_time: 2023-05-25 14:50
 end_time: 2023-05-25 16:50
 ---
 
+**Location**: Flett Theatre - Natural History Museum
+
+**Start time**: 2023-05-25 14:50
+
+**Finish time**: 2023-05-25 16:50
+
 | Start     | End       | Talk                                                                                              | Speaker                       |
 |   :----:  |   :----:  |   :----:                                                                                          |   :----:                      |
 | 14:50     | 15:05     | Reducing Labelling Costs by Learning Semantic Class Targets                                       | Micah Bowles                  | 

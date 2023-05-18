@@ -6,6 +6,12 @@ start_time: 2023-05-25 11:35
 end_time: 2023-05-25 13:05
 ---
 
+**Location**: Flett Theatre - Natural History Museum
+
+**Start time**: 2023-05-25 11:35
+
+**Finish time**: 2023-05-25 13:05
+
 | Start     | End      | Talk                                                                                           | Speaker                       |
 |   :----:  |   :----: |   :----:                                                                                       |   :----:                      |
 | 11:35     | 11:50    | Bargaining games, stochastic games and multi-agent RL - A golden braid                         | Lucia Cipolina-Kun            |  

@@ -6,6 +6,12 @@ start_time: 2023-05-24 14:30
 end_time: 2023-05-24 16:30
 ---
 
+**Location**: Flett Theatre - Natural History Museum
+
+**Start time**: 2023-05-24 14:30
+
+**Finish time**: 2023-05-24 16:30
+
 | Start     | End      | Talk                                                                                                   | Speaker                |
 |   :----:  |   :----: |   :----:                                                                                               |   :----:               |
 | 14:30     | 14:45    | Machine Learning & Computer Vision for Automatic Label Extraction from Pinned Specimens                | Arianna Salili-James   |
