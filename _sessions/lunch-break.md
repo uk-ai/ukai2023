@@ -6,8 +6,12 @@ end_time: 2023-05-24 14:25
 ---
 
 Location: Flett Theatre Foyer - Natural History Museum
+
 Start time: 2023-05-24 13:25
+
 End time: 2023-05-24 14:25
+
+Posters format: Up to A1 (59cm * 84cm), with portrait orientation.
 
 | Board     | Poster                                                                                                  | Author                 |
 |   :----:  |   :----:                                                                                                |   :----:               |
@@ -23,6 +27,3 @@ End time: 2023-05-24 14:25
 | 5         | A Variational Autoencoder for Longitudinal Causal Models                                                | Siddharth Ramchandran  | 
 | 6         | Self-adaptive Parameter Control Mechanism in Evolutionary Computation	                                  | Xiaoyu Qin             | 
 | 6         | Unsupervised Opinion Summarization in the Wasserstein Space                                             | Jiayu Song             | 
-
-
-Posters format: Up to A1 (59cm * 84cm), with portrait orientation.

@@ -6,8 +6,12 @@ end_time: 2023-05-24 11:45
 ---
 
 Location: Flett Theatre Foyer - Natural History Museum
+
 Start time: 2023-05-24 10:45
+
 End time: 2023-05-24 11:45
+
+Posters format: Up to A1 (59cm * 84cm), with portrait orientation.
 
 | Board     | Poster                                                                                                                        | Author             |
 |   :----:  |   :----:                                                                                                                      |   :----:           |
@@ -24,6 +28,3 @@ End time: 2023-05-24 11:45
 | 6         | Continual Learning with Spiking Neural Networks                                                                               | Vahid Saranirad    | 
 | 6         | Computational Responsibility for Trustworthy Citizen-Centric AI                                                               | Vahid Yazdanpanah  | 
 | 7         | An Event-Centric Dialogue System for Second Language Learners                                                                 | Xingwei Tan        | 
-
-
-Posters format: Up to A1 (59cm * 84cm), with portrait orientation.
