@@ -22,7 +22,7 @@ end_time: 2023-05-24 11:45
 | 3         | Exploiting Epistemic Uncertainty at Inference Time for Early-exit Power Saving                                                | Jack Dymond        | 
 | 3         | Solving Large-scale MEG/EEG Source Localisation and Functional Connectivity Problems Simultaneously Using State-space Models  | Jose Sanchez       | 
 | 4         | Reducing Hallucinations in Generative Language Models via Uncertainty Estimation                                              | Lorenz Kuhn        | 
-| 4         | Empirical Evaluation of Medical AI Explanations in the Hospital Using Behavioural Response and Eye-tracking Metrics           | Myura Nagendran    | 
+| 4         | On cross-view prediction in multimodal Variational Autoencoders                                                               | Kaspar Märtens     |
 | 5         | ProteinNPT: Multi-objective Protein Design With Non-parametric Transformers                                                   | Ruben Weitzman     | 
 | 5         | CONE: Unsupervised Contrastive Opinion Extraction                                                                             | Runcong Zhao       | 
 | 6         | Continual Learning with Spiking Neural Networks                                                                               | Vahid Saranirad    | 

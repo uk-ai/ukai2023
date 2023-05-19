@@ -22,7 +22,6 @@ end_time: 2023-05-25 11:30
 | 3         | Not Just Pretty Pictures: Text-to-Image Generators Enable Interpretable Interventions for Robust Representations  | Francesco Pinto               |
 | 3         | Generative Relevance Feedback with Large Language Models                                                          | Iain Mackie                   |
 | 4         | OverPrompt: Enhancing ChatGPT Capabilities through an Efficient In-Context Learning Approach                      | Jiazheng Li                   |
-| 4         | Experimental Design for Efficient Estimation of Continuous and Discrete Individual-level Treatment Effects        | Muhammed Razzak               |
 | 5         | 3D Motion Trajectory Brain Computer Interface for Embodied Upper Limb Control                                     | Niall McShane                 |
 | 5         | Make Some Noise: Reliable and Efficient Single-Step Adversarial Training                                          | Pau de Jorge Aranda           |
 | 6         | Deep Predictive Coding with Bi-directional Propagation for Classification and Reconstruction                      | Senhui Qiu                    |
