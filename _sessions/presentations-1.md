@@ -8,9 +8,9 @@ end_time: 2023-05-24 16:30
 
 **Location**: Flett Theatre - Natural History Museum - London, UK.
 
-**Start time**: 2023-05-24 14:30.
+**Start time**: 2023-05-24 14:30
 
-**Finish time**: 2023-05-24 16:30.
+**Finish time**: 2023-05-24 16:30
 
 | Start     | End      | Talk                                                                                                   | Speaker                |
 |   :----:  |   :----: |   :----:                                                                                               |   :----:               |

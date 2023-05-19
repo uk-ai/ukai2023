@@ -7,16 +7,16 @@ end_time: 2023-05-25 11:30
 
 **Location**: Flett Theatre Foyer - Natural History Museum - London, UK.
 
-**Start time**: 2023-05-25 10:45.
+**Start time**: 2023-05-25 10:45
 
-**Finish time**: 2023-05-25 11:30.
+**Finish time**: 2023-05-25 11:30
 
 **Posters format**: Up to A1 (59cm * 84cm), with portrait orientation.
 
 | Board     | Poster                                                                                                            | Author                        |
 |   :----:  |   :----:                                                                                                          |   :----:                      |
-| 1         | Citizen Centric Demand Responsive Transpor                                                                        | Alexander Masterman           | 
-| 1         | The Morse Code of Health - Temporal Patterns of Primary Care Utilisation as Predictors of Hospital Admission      | Benjamin Post                 | 
+| 1         | Citizen Centric Demand Responsive Transpor                                                                        | Alexander Masterman           |
+| 1         | The Morse Code of Health - Temporal Patterns of Primary Care Utilisation as Predictors of Hospital Admission      | Benjamin Post                 |
 | 2         | Automated Deep Neural network construction by the synergy of Reinforcement learning and Evolutionary algorithms   | Farajollah Tahernezhadjavazm  |
 | 2         | Fairness in AI and Its Long-Term Implications on Society                                                          | Fazl Barez                    |
 | 3         | Not Just Pretty Pictures: Text-to-Image Generators Enable Interpretable Interventions for Robust Representations  | Francesco Pinto               |
