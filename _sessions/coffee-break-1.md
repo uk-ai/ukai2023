@@ -27,4 +27,3 @@ end_time: 2023-05-24 11:45
 | 5         | CONE: Unsupervised Contrastive Opinion Extraction                                                                             | Runcong Zhao       | 
 | 6         | Continual Learning with Spiking Neural Networks                                                                               | Vahid Saranirad    | 
 | 6         | Computational Responsibility for Trustworthy Citizen-Centric AI                                                               | Vahid Yazdanpanah  | 
-| 7         | An Event-Centric Dialogue System for Second Language Learners                                                                 | Xingwei Tan        | 

@@ -28,3 +28,4 @@ end_time: 2023-05-25 14:10
 | 6         | Novelty Detection using Hybrid Autoencoder-Level Set Method                                                                                                                  | Shuo Liu               |
 | 6         | Assisting Human Detection of Audio Deepfakes                                                                                                                                 | Thomas Cutts           |
 | 7         | Document-Level Multi-Event Extraction with Event Proxy Nodes and Hausdorff Distance Minimization                                                                             | Xinyu Wang             |
+| 7         | An Event-Centric Dialogue System for Second Language Learners                                                                                                                | Xingwei Tan            | 
