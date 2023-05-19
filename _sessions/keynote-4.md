@@ -17,6 +17,6 @@ Why is it important to communicate with the media?
 
 ### Speaker
 
-Ed joined the Science Media Centre (SMC) in August 2022 as a press officer. He graduated from University College London 
+Ed Day joined the Science Media Centre (SMC) in August 2022 as a press officer. He graduated from University College London 
 with a degree in Natural Sciences, and was an intern at the SMC in 2019, before working for a few years in scientific publishing.
 
