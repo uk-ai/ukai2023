@@ -2,8 +2,8 @@
 layout: plenary
 title: "Keynote Talk"
 author:
-- family: Vallance
-  given: Sir Patric
+- family: TBA
+  given: TBA
   institute: TBA
 start_time: 2023-05-24 10:00
 end_time: 2023-05-24 10:40
@@ -11,9 +11,9 @@ end_time: 2023-05-24 10:40
 
 **Location**: Flett Theatre - Natural History Museum - London, UK.
 
-**Start time**: 2023-05-24 10:45.
+**Start time**: 2023-05-24 10:40.
 
-**Finish time**: 2023-05-24 11:45.
+**Finish time**: 2023-05-24 11:40.
 
 ### Biography
 
