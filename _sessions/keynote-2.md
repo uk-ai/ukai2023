@@ -8,7 +8,7 @@ speaker: Sylvie Delacroix (University of Birmingham)
 location: Neil Chalmers
 ---
 
-Sylvie Delacroix will share thoughts on the legal and ethical issues that arise from data in the age of the large language model.
+Sylvie Delacroix will share thoughts on the legal and ethical issues that arise from data in the age of the large generative AI models.
 
 ### Speaker
 
