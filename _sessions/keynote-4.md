@@ -1,6 +1,7 @@
 ---
 layout: plenary
-title: "Keynote Talk by Ed Day from Science Media Centre"
+title: "Why is it Important to Communicate with the Media?"
+speaker: Ed Day (Science Media Centre)
 start_time: 2023-05-25 14:15
 end_time: 2023-05-25 14:45
 ---
