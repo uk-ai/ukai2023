@@ -4,5 +4,7 @@ body: |
   <h4>The UK AI Fellows Conference</h4>
   <p>This conference is bringing together the UK's Turing Fellows for discussion between them and their research groups.</p>
 partners:
-  - link: 
-    image: /assets/images/university-of-cambridge.png
+  - link: https://www.ukri.org/ 
+    image: /assets/images/ukri-logo.png
+  - link: https://www.turing.ac.uk/
+    image: /assets/images/turing-logo.gif
