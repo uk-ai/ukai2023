@@ -4,17 +4,10 @@ title: "Why is it Important to Communicate with the Media?"
 speaker: Ed Day (Science Media Centre)
 start_time: 2023-05-25 14:15
 end_time: 2023-05-25 14:45
+location: Flett Theatre
 ---
 
-**Location**: Flett Theatre - Natural History Museum - London, UK.
-
-**Start time**: 2023-05-25 14:15
-
-**Finish time**: 2023-05-25 14:45
-
-### Talk Title
-
-Why is it important to communicate with the media?
+Ed Day from the Science Media Centre with a session of the importance of public communication for scientists.
 
 ### Speaker
 
