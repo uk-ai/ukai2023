@@ -4,19 +4,11 @@ title: "Keynote Talk"
 speaker: Dr Doug Gurr (Natural History Museum)
 start_time: 2023-05-25 10:00
 end_time: 2023-05-25 10:40
+location: Flett Theatre
 ---
 
-**Location**: Flett Theatre - Natural History Museum - London, UK.
+Keynote from Doug Gurr who is director of the Natural History Museum and Chair of the Alan Turing Institute.
 
-**Start time**: 2023-05-25 10:00
-
-**Finish time**: 2023-05-25 11:40
-
-### Talk Title
-
-TBD
-
-### Speaker
 
 Douglas Gurr was appointed Director of The Natural History Museum from
 December 2020.
