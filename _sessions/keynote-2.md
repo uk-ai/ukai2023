@@ -5,17 +5,10 @@ track: 2
 start_time: 2023-05-25 11:35
 end_time: 2023-05-25 13:05
 speaker: Sylvie Delacroix (University of Birmingham)
+location: Neil Chalmers
 ---
 
-**Location**: Neil Chalmers - Natural History Museum - London, UK.
-
-**Start time**: 2023-05-25 11:35
-
-**Finish time**: 2023-05-25 13:05
-
-### Talk Title
-
-Data Rivers: Carving Out the Public Domain in the Age of Generative AI 
+Sylvie Delacroix will share thoughts on the legal and ethical issues that arise from data in the age of the large language model.
 
 ### Speaker
 
