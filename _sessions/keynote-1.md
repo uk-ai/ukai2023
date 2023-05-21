@@ -4,20 +4,11 @@ title: "Keynote Talk"
 speaker: Sir Patrick Vallance
 start_time: 2023-05-24 10:00
 end_time: 2023-05-24 10:40
-excerpt: A key note talk from the Sir Patrick who was Government Chief Scientific advisor across the last five years including the Covid19 pandemic period.
+location: Flett Theatre
+venue: Natural History Museum - London, UK.
 ---
 
-**Location**: Flett Theatre - Natural History Museum - London, UK.
-
-**Start time**: 2023-05-24 10:00
-
-**Finish time**: 2023-05-24 10:40
-
-### Talk Title
-
-TBD
-
-### Speaker
+A key note talk from the Sir Patrick who was Government Chief Scientific advisor across the last five years including the Covid19 pandemic period.
 
 Sir Patrick Vallance FRS FMedSci FRCP HonFREng was Government Chief
 Scientific Adviser (GCSA) from April 2018 to April 2023.  He was also
