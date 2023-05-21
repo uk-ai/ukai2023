@@ -107,7 +107,7 @@ chairs:
     given: Anna
     # Give their personal web page.  
     url: https://research.manchester.ac.uk/en/persons/anna.scaife
-    institute: Queen Mary University of London
+    institute: University of Manchester
 
 previous_meeting:
   name:
