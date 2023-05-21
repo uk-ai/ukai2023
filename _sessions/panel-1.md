@@ -3,15 +3,9 @@ layout: plenary
 title: "Panel Discussion"
 start_time: 2023-05-24 11:50
 end_time: 2023-05-24 13:20
-excerpt: A panel discussion from the Turing AI Fellows
+location: Flett Theatre 
 ---
 
-
-**Location**: Flett Theatre - Natural History Museum - London, UK.
-
-**Start time**: 2023-05-24 11:50
-
-**Finish time**: 2023-05-24 13:20
 
 | Start     | End      | Activity                           |
 |   :----:  |   :----: |   :----:                           |
