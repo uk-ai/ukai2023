@@ -3,10 +3,7 @@ title: "Departures"
 layout: break
 start_time: 2023-05-25 16:55
 end_time: 2023-05-25 17:30
+location: Flett Theatre Foyer
 ---
 
-**Location**: Flett Theatre Foyer - Natural History Museum - London, UK.
-
-**Start time**: 2023-05-25 16:55
-
-**Finish time**: 2023-05-25 17:30
+All good things come to an end! A chance to say good bye before heading home.
