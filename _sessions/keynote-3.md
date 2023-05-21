@@ -1,6 +1,7 @@
 ---
 layout: plenary
-title: "Keynote Talk by Dr. Doug Gurr from Natural History Museum"
+title: "Keynote Talk"
+speaker: Dr Doug Gurr (Natural History Museum)
 start_time: 2023-05-25 10:00
 end_time: 2023-05-25 10:40
 ---
