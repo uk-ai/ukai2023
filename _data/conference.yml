@@ -19,7 +19,7 @@ deadlines:
     text: 20th April 2023 (Anywhere on Earth)
     type: submission
   - name: Abstract decision notifications
-    date: 28th April 2023
+    date: 3rd May 2023
     type: decision
 # Give the submission site details here.
 submission:
@@ -33,15 +33,48 @@ submission:
 chairs:
 - type: Program Committee
   people:
+  - family: Benford
+    given: Alistair
+    # Give their personal web page.  
+    url: https://www.alistairbenford.com/
+    institute: University of Birmingham
   - family: Cabrera
     given: Christian
     # Give their personal web page.  
-    url: https://mlatcl.github.io/people/christian-cabrera.html
+    url: https://cabrerac.github.io/
     institute: University of Cambridge
+  - family: Cipolina Kun
+    given: Lucia
+    # Give their personal web page.  
+    url: https://lcipolina.github.io/
+    institute: University of Bristol
+  - family: Hevia Fajardo
+    given: Mario
+    # Give their personal web page.  
+    url: https://research.birmingham.ac.uk/en/persons/mario-hevia-fajardo
+    institute: University of Birmingham 
+  - family: Koohy
+    given: Behrad
+    # Give their personal web page.  
+    url: https://www.southampton.ac.uk/people/5xql28/mr-behrad-koohy
+    institute: University of Southampton
   - family: Scott
     given: Ben
     url: https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/ben-scott.html
     institute: Natural History Museum
+  - family: Slijepcevic
+    given: Inigo Val
+    # Give their personal web page.  
+    url: https://inigoval.github.io/
+    institute: University of Manchester
+  - family: Song
+    given: Pingfan
+    url: https://www.c2d3.cam.ac.uk/directory/16841/mr-pingfan-song
+    institute: University of Cambridge
+  - family: Zhang
+    given: Wenjia
+    url: https://www.linkedin.com/in/wenjia-zhang-760a55182/?trk=public-profile-join-page
+    institute: University of Warwick
 - type: Alan Turing Institute
   people: 
     - family: Cordier
