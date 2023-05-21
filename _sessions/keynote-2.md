@@ -1,9 +1,10 @@
 ---
 layout: workshop
-title: "Keynote Talk by Professor Sylvie Delacroix"
+title: "Data Rivers: Carving Out the Public Domain in the Age of Generative AI"
 track: 2
 start_time: 2023-05-25 11:35
 end_time: 2023-05-25 13:05
+speaker: Sylvie Delacroix (University of Birmingham)
 ---
 
 **Location**: Neil Chalmers - Natural History Museum - London, UK.
