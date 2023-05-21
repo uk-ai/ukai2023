@@ -8,6 +8,8 @@ location: Flett Theatre
 ---
 
 
+The first session of presentations contains short talks from researchers working on AI projects across the UK.
+
 | Start     | End      | Talk                                                                                                   | Speaker                |
 |   :----:  |   :----: |   :----:                                                                                               |   :----:               |
 | 14:30     | 14:45    | Machine Learning & Computer Vision for Automatic Label Extraction from Pinned Specimens                | Arianna Salili-James   |
