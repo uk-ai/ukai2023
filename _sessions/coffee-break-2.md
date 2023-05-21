@@ -3,14 +3,10 @@ layout: break
 title: "Coffee Break and Posters Session 3"
 start_time: 2023-05-25 10:45
 end_time: 2023-05-25 11:30
-excerpt: A chance to drink coffee and see the posters being presented by the UK AI fellow's projects and the Natural History Museum held in the Flett Theatre Foyer.
+location: Flett Theatre Foyer 
 ---
 
-**Location**: Flett Theatre Foyer - Natural History Museum - London, UK.
-
-**Start time**: 2023-05-25 10:45
-
-**Finish time**: 2023-05-25 11:30
+A chance to drink coffee and see the posters being presented by the UK AI fellow's projects and the Natural History Museum held in the Flett Theatre Foyer.
 
 **Posters format**: Up to A1 (59cm * 84cm), with portrait orientation.
 
