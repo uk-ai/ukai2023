@@ -3,13 +3,10 @@ layout: break
 title: Lunch and Posters Session 4
 start_time: 2023-05-25 13:10
 end_time: 2023-05-25 14:10
+location: Flett Theatre Foyer
 ---
 
-**Location**: Flett Theatre Foyer - Natural History Museum - London, UK.
-
-**Start time**: 2023-05-25 13:10
-
-**Finish time**: 2023-05-25 14:10
+A chance for some lunch and to catch up with research going on across the UK.
 
 **Posters format**: Up to A1 (59cm * 84cm), with portrait orientation.
 
