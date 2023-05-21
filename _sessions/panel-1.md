@@ -1,8 +1,9 @@
 ---
 layout: plenary
-title: "Turing AI fellowship Panel Discussion"
+title: "Panel Discussion"
 start_time: 2023-05-24 11:50
 end_time: 2023-05-24 13:20
+excerpt: A panel discussion from the Turing AI Fellows
 ---
 
 

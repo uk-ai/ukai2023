@@ -4,6 +4,7 @@ title: "Presentations Session 3"
 track: 1
 start_time: 2023-05-25 14:50
 end_time: 2023-05-25 16:50
+excerpt: A selection of submitted talks from researchers.
 ---
 
 **Location**: Flett Theatre - Natural History Museum - London, UK.

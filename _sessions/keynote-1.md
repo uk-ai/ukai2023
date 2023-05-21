@@ -1,8 +1,10 @@
 ---
 layout: plenary
-title: "Keynote Talk by Sir Patrick Vallance"
+title: "Keynote Talk"
+speaker: Sir Patrick Vallance
 start_time: 2023-05-24 10:00
 end_time: 2023-05-24 10:40
+excerpt: A key note talk from the Sir Patrick who was Government Chief Scientific advisor across the last five years including the Covid19 pandemic period.
 ---
 
 **Location**: Flett Theatre - Natural History Museum - London, UK.
