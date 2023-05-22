@@ -101,8 +101,8 @@ chairs:
   - family: Liakata
     given: Maria
     # Give their personal web page.  
-    url: http://eecs.qmul.ac.uk/people/profiles/liakatamaria.html
-    institute: QMUL
+    url: https://www.turing.ac.uk/people/researchers/maria-liakata
+    institute: Queen Mary University of London 
   - family: Scaife
     given: Anna
     # Give their personal web page.  
