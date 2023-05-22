@@ -2,8 +2,8 @@
 layout: workshop
 title: "Workshop - Working with the Industry"
 track: 2
-start_time: 2023-05-25 14:50
-end_time: 2023-05-25 16:50
+start_time: 2023-05-25 15:00
+end_time: 2023-05-25 17:15
 location: Neil Chalmers
 ---
 
