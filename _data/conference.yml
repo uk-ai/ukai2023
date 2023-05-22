@@ -1,8 +1,8 @@
 full_name: Turing AI Fellowship Event - UK AI Conference 2023 
 short_name: UKAI
 name: Turing AI Fellowship Event - UK AI Conference
-instance: First
-styling: Conference for
+#instance: First
+#styling: Conference for
 # set to True if the programme is draft only.
 draft: False # set tbo True if the programme is draft only.
 hide_tentative: False
