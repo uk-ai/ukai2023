@@ -1,7 +1,7 @@
 hero:
   title: About Us
 body: |
-  <h4>The Turing AI Fellowship Event - UK AI Conference</h4>
+  <h4>The Turing AI Fellowship Event - First UK AI Conference</h4>
   <p>This conference is bringing together the UK's Alan Turing Institute Fellows for discussion between them and their research groups.</p>
 partners:
   - label: UK Research and Innovation
