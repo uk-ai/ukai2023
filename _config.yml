@@ -1,8 +1,8 @@
 # Site settings
-title: Turing AI Fellowship Event - UK AI Conference, 2023
+title: The First UK AI Conference 2023 - Turing AI Fellowship Event
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  This is the web page of the UK Turing AI Fellowship Event - UK AI Conference, 2023.
+  This is the web page of the First UK AI Conference 2023 - Turing AI Fellowship Event.
 baseurl: "/ukai2023" # the subpath of your site, e.g. /blog/
 url: "http://uk-ai.org" # the base hostname & protocol for your site
 github_username:  uk-ai
