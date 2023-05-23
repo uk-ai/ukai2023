@@ -14,7 +14,7 @@ A panel organised by Maria Liakata to share the fellows'vision for future resear
 | 12:00     | 12:10    | TBC                                                                                   | Prof. Yulan He                      | King's College London            |
 | 12:10     | 12:20    | Citizen-Centric AI Systems                                                            | Associate Prof. Sebastian Stein     | University of Southampton        |
 | 12:20     | 12:30    | Probabilistic Algorithms for Scalable and Computable Approaches to Learning (PASCAL)  | Senior Lecturer Christopher Nemeth  | Lancaster University             |
-| 12:30     | 12:40    | TBD                                                                                   | Prof. Ivan Tyukin                   | King's College London            |
+| 12:30     | 12:40    | TBC                                                                                   | Prof. Ivan Tyukin                   | King's College London            |
 | 12:40     | 12:50    | Machine Learning Foundations of Digital Twins                                         | Prof. Theo Damoulas                 | University of Warwick            |
 | 12:50     | 13:20    | Discussion and Q&A                                                                    |                                     |                                  |
 
