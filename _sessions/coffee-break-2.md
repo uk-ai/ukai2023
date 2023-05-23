@@ -19,8 +19,10 @@ A chance to drink coffee and see the posters being presented by the UK AI fellow
 | 3         | Not Just Pretty Pictures: Text-to-Image Generators Enable Interpretable Interventions for Robust Representations  | Francesco Pinto               |
 | 3         | Generative Relevance Feedback with Large Language Models                                                          | Iain Mackie                   |
 | 4         | OverPrompt: Enhancing ChatGPT Capabilities through an Efficient In-Context Learning Approach                      | Jiazheng Li                   |
+| 4         | Learn user models in human-in-the-loop machine learning                                                           | Xiaomei Mi                    |
 | 5         | 3D Motion Trajectory Brain Computer Interface for Embodied Upper Limb Control                                     | Niall McShane                 |
 | 5         | Make Some Noise: Reliable and Efficient Single-Step Adversarial Training                                          | Pau de Jorge Aranda           |
 | 6         | Deep Predictive Coding with Bi-directional Propagation for Classification and Reconstruction                      | Senhui Qiu                    |
 | 6         | Multimodal Multimorbidity Variational Autoencoder: A Deep Generative Model for Multimorbidity Analysis            | Woojung Kim                   |
 | 7         | Event Temporal Relation Extraction with Bayesian Translational Model                                              | Xingwei Tan                   |
+| 7         | Model-based Trajectory Stitching                                                                                  | Charles Hepburn               |

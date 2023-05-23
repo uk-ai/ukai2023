@@ -20,8 +20,9 @@ A chance for some lunch and to catch up with research going on across the UK.
 | 3         | Knowledge Extraction using Capsule Deep Learning Approaches                                                                                                                  | Massoud khodadadzadeh  |
 | 4         | Electroencephalography-based consciousness assessment and cognitive function profiling in prolonged disorders of consciousness – evaluation of a novel multi-stage protocol  | Naomi du Bois          |
 | 4         | Safety assessment of reinforcement learning agents in the hospital healthcare: from training to clinical deployment                                                          | Paul Festor            |
-| 5         | Exploiting Simulated User Feedback for Conversational Search: Ranking, Rewriting, and Beyond                                                                                 | Paul Owoicho           |
+| 5         | Graph Inductive Bias for Accurate Molecule Property Prediction                                                                                                               | Will Lin               |
 | 5         | Runtime Analysis of Competitive Co-evolutionary Algorithms on Binary Test-Based Optimisation Problems                                                                        | Shishen Lin            |
 | 6         | Assisting Human Detection of Audio Deepfakes                                                                                                                                 | Thomas Cutts           |
 | 6         | Document-Level Multi-Event Extraction with Event Proxy Nodes and Hausdorff Distance Minimization                                                                             | Xinyu Wang             |
+| 7         | Balancing policy constraint and ensemble size in uncertainty-based offline reinforcement learning                                                                            | Alex Beeson            |
 
