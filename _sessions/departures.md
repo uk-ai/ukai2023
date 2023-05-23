@@ -1,7 +1,7 @@
 ---
 title: "Departures"
 layout: break
-start_time: 2023-05-25 16:55
+start_time: 2023-05-25 17:15
 end_time: 2023-05-25 17:30
 location: Flett Theatre Foyer
 ---

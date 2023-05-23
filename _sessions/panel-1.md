@@ -1,11 +1,12 @@
 ---
 layout: plenary
-title: "Panel Discussion"
+title: "Turing AI Fellows Panel Progress and Future Directions"
 start_time: 2023-05-24 11:50
 end_time: 2023-05-24 13:20
 location: Flett Theatre 
 ---
 
+A panel organised by Maria Liakata to share the fellows'vision for future research directions.
 
 | Start     | End      | Talk                               | Speaker             |
 |   :----:  |   :----: |   :----:                           |   :----:            |
