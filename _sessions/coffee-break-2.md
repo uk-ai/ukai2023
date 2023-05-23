@@ -6,7 +6,7 @@ end_time: 2023-05-25 11:30
 location: Flett Theatre Foyer 
 ---
 
-A chance to drink coffee and see the posters being presented by the Turing AI fellow's projects and the Natural History Museum held in the Flett Theatre Foyer.
+A chance to drink coffee and see the posters being presented by the Turing AI Fellow's projects and the Natural History Museum held in the Flett Theatre Foyer.
 
 **Posters format**: Up to A1 (59cm * 84cm), with portrait orientation.
 
