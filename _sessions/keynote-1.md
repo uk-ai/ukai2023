@@ -8,7 +8,7 @@ location: Flett Theatre
 venue: Natural History Museum - London, UK.
 ---
 
-A key note talk from the Sir Patrick who was Government Chief Scientific advisor across the last five years including the Covid19 pandemic period.
+A key note talk from the Sir Patrick, former Government Chief Scientific advisor from April 2018 to April 2023.
 
 Sir Patrick Vallance FRS FMedSci FRCP HonFREng was Government Chief
 Scientific Adviser (GCSA) from April 2018 to April 2023.  He was also

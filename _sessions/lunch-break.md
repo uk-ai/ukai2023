@@ -6,7 +6,7 @@ end_time: 2023-05-24 14:25
 location: Flett Theatre Foyer
 ---
 
-A chance to eat some lunch and view work coming from research teams across the UK selected by UK AI students and post-doctoral researchers.
+A chance to eat lunch and discuss research taking place across the UK presented by students and post-doctoral researchers working on the Turing AI Fellowships.
 
 **Posters format**: Up to A1 (59cm * 84cm), with portrait orientation.
 
