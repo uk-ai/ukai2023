@@ -7,7 +7,7 @@ end_time: 2023-05-25 10:40
 location: Flett Theatre
 ---
 
-Keynote from Doug Gurr who is director of the Natural History Museum and Chair of the Alan Turing Institute.
+Keynote from Doug Gurr who is director of the Natural History Museum and Chair of Board of Trustees, The Alan Turing Institute.
 
 
 Douglas Gurr was appointed Director of The Natural History Museum from
