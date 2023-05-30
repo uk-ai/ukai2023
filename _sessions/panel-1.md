@@ -10,8 +10,8 @@ A panel organised by Maria Liakata to share the fellows'vision for future resear
 
 | Start     | End      | Talk                                                                                  | Speaker                             | Affiliation                      |
 |   :----:  |   :----: |   :----:                                                                              |   :----:                            |   :----:                         |
-| 11:50     | 12:00    | TBC                                                                                   | Prof. Maria Liakata                 | Queen Mary University of London  |
-| 12:00     | 12:10    | TBC                                                                                   | Prof. Yulan He                      | King's College London            |
+| 11:50     | 12:00    | Personalised Longitudinal Natural Language Processing and beyond                      | Prof. Maria Liakata                 | Queen Mary University of London  |
+| 12:00     | 12:10    | Machine Reading Comprehension: Now and Next                                           | Prof. Yulan He                      | King's College London            |
 | 12:10     | 12:20    | Citizen-Centric AI Systems                                                            | Associate Prof. Sebastian Stein     | University of Southampton        |
 | 12:20     | 12:30    | Probabilistic Algorithms for Scalable and Computable Approaches to Learning (PASCAL)  | Senior Lecturer Christopher Nemeth  | Lancaster University             |
 | 12:30     | 12:40    | TBC                                                                                   | Prof. Ivan Tyukin                   | King's College London            |
